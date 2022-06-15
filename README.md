@@ -11,8 +11,7 @@ Jumps and double jump
 Punctuation
 
 # Gif with the main menu and stages
-
-
+![gif pixel](https://user-images.githubusercontent.com/99060199/173958350-cdbe9889-0f6d-4196-9946-ccce3094d6ca.gif)
 
 # About the autor
 
