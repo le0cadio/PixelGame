@@ -5,9 +5,12 @@ PixelGame made with a C# and Unity following one course
 It consists of a game in which the main objective is for the player to collect the pineapples
 
 # Functionalities
-Collect pineapple
-Game over
-Jumps and double jump
+Collect pineapple,
+
+Game over,
+
+Jumps and double jump,
+
 Punctuation
 
 # Gif with the main menu and stages
