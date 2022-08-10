@@ -22,4 +22,4 @@ Punctuation
 
 # About the autor
 
-Computer science student at 5th semester, and GameDevelop with C# and Unity
+Computer science student at 6th semester, and GameDevelop with C# and Unity
